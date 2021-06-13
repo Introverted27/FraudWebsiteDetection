@@ -1,0 +1,6 @@
+Having_IP_Address,URL_Length,Shortening_Service,Having_At_Symbol,Double_Slash_Redirecting,Prefix_Suffix,Having_Sub_Domain,SSLfinal_State,Domain_registeration_length,Favicon,HTTPS_Token,PctImageTags,PctAudioTags,PctVideoTags,PctTrackTags,PctSourceTags,PctIframeTags,URL_of_Anchor,PctMetaTags,PctScriptTags,PctLinkTags,SFH,Submit_to_Email,Abnormal Url,Port
+1,20,1,1,1,1,1,,2192,1,1,12.5,0,0,0,0,0.0,2.336,17.143,71.429,0.0,0.0,1,1,0
+1,20,1,1,1,1,1,1.0,8780,1,1,20.0,0,0,0,0,100.0,4.054,66.667,100.0,80.0,0.0,1,1,0
+1,19,1,1,1,1,1,1.0,6575,1,1,47.62,0,0,0,0,0.0,11.702,6.667,50.0,8.333,0.0,1,1,0
+-1,26,-1,1,1,1,2,-1.0,8765,-1,1,0.0,0,0,0,0,0.0,3.774,0.0,100.0,100.0,0.0,1,1,0
+1,20,1,1,1,1,1,-1.0,6940,1,1,4.0,0,0,0,0,100.0,5.903,28.0,47.368,6.25,0.0,1,1,0

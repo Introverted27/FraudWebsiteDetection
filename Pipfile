@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+scipy = "*"
+scikit-learn = "*"
+matplotlib = "*"
+"bs4" = "*"
+requests = "*"
+tld = "*"
+python-whois = "*"
+pyopenssl = "*"
+pandas = "*"
+dask = {extras = ["dataframe"],version = "*"}
+tqdm = "*"
+
+[dev-packages]
+pycodestyle = "*"
+python-language-server = {extras = ["all"], version = "*"}
+
+[requires]
+python_version = "3.8"

@@ -1,0 +1,22 @@
+url,error
+h,Domain h didn't match any existing TLD name!
+t,Domain t didn't match any existing TLD name!
+t,Domain t didn't match any existing TLD name!
+p,Domain p didn't match any existing TLD name!
+:,Is not a valid URL http://:/!
+/,Is not a valid URL http:////!
+/,Is not a valid URL http:////!
+i,Domain i didn't match any existing TLD name!
+n,Domain n didn't match any existing TLD name!
+d,Domain d didn't match any existing TLD name!
+i,Domain i didn't match any existing TLD name!
+a,Domain a didn't match any existing TLD name!
+g,Domain g didn't match any existing TLD name!
+l,Domain l didn't match any existing TLD name!
+i,Domain i didn't match any existing TLD name!
+t,Domain t didn't match any existing TLD name!
+z,Domain z didn't match any existing TLD name!
+.,Domain . didn't match any existing TLD name!
+c,Domain c didn't match any existing TLD name!
+o,Domain o didn't match any existing TLD name!
+m,Domain m didn't match any existing TLD name!

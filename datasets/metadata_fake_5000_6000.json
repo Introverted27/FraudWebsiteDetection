@@ -1,0 +1,43 @@
+{
+    "5000": {
+        "StartEnd": [
+            5000,
+            6000
+        ],
+        "Created": "2021-03-24 02:25:32.133655",
+        "Shape": [
+            999,
+            26
+        ],
+        "Columns": [
+            "Having_IP_Address",
+            "URL_Length",
+            "Shortening_Service",
+            "Having_At_Symbol",
+            "Double_Slash_Redirecting",
+            "Prefix_Suffix",
+            "Having_Sub_Domain",
+            "SSLfinal_State",
+            "Domain_registeration_length",
+            "Favicon",
+            "HTTPS_Token",
+            "PctImageTags",
+            "PctAudioTags",
+            "PctVideoTags",
+            "PctTrackTags",
+            "PctSourceTags",
+            "PctIframeTags",
+            "URL_of_Anchor",
+            "PctMetaTags",
+            "PctScriptTags",
+            "PctLinkTags",
+            "SFH",
+            "Submit_to_Email",
+            "Abnormal Url",
+            "Port",
+            "category"
+        ],
+        "Filename": "Fake_5000_6000.csv",
+        "Runtime": "2:18:54.759029"
+    }
+}
